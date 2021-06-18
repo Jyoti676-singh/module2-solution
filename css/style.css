@@ -117,6 +117,12 @@ div .external3{
   
 }
 
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape)
+{
+div .external2 {
+    margin: 20px 10px 0px 8px;
+}
+}
 
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
